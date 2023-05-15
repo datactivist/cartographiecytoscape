@@ -1,0 +1,43 @@
+- Documentation sur la collecte des données par la DGFiP
+- Accès au grain de la parcelle (donc pas OD), comment ?
+-
+- # Checklist network graph
+	- Pour info, dans les lignes suivantes `Table > Nom de colonne`
+	- ## carto_points.csv
+		- LATER **ID** : Toutes les valeurs des premières colonnes des tables dans une même colonne :
+			- TODO Besoins > Nom du besoin (court)
+			- TODO Acteurs > Bureau (entité niveau 1) (en fonction de la direction Acteur DGFIP ou Acteur MTE)
+			- TODO Bases de données > Nom de la base de données
+			- TODO Cas d’usage > Nom du cas d'usage (court)
+			- TODO Cas d'usage > Politique publique
+			-
+		- TODO **Groupe** : Ajouter le groupe correspondant (voir ci-dessus) entre ces valeurs : Besoin, Acteur DGFIP, Acteur MTE, Base de données, Cas d'usage, Politique publique
+		-
+		- TODO **Besoin 05 juin** :
+			- TODO Besoins > Besoin 05 juin
+		-
+		- TODO **Description** : diffère selon les groupes
+			- TODO Besoin : Besoins > Nom du besoin
+			- TODO Base de données : Bases de données > Description
+			- TODO Acteur : Acteurs > Description
+			- TODO Cas d'usage : Cas d'usage > Nom du cas d'usage
+			-
+		- TODO **Avancements renseignés par le MTE** : Besoins > Avancements renseignés par le MTE (à mettre à jour)
+		-
+		- TODO **Précisions renseignées par le MTE** :
+			- TODO Besoins > Précisions renseignées par le MTE
+			- TODO Cas d'usage > Détails cas d'usage
+		-
+	- ## carto_links.csv
+		- TODO **Faire les liens entre (tout depuis la table Besoin)**
+			- LATER Besoin et BDD
+			- LATER Besoin et Acteur utilisateur
+			- LATER Besoin et Bureaux DGFIP
+			- LATER Besoin et Cas d'usage (court)
+			- TODO Besoin et Politique Publique
+		- TODO **À partir de la table Base de données**
+			- LATER Bureau mainteneur et BDD
+			  :LOGBOOK:
+			  CLOCK: [2023-05-15 Mon 19:35:55]--[2023-05-15 Mon 19:35:55] =>  00:00:00
+			  :END:
+-
