@@ -37,7 +37,3 @@
 			- TODO Besoin et Politique Publique
 		- TODO **À partir de la table Base de données**
 			- LATER Bureau mainteneur et BDD
-			  :LOGBOOK:
-			  CLOCK: [2023-05-15 Mon 19:35:55]--[2023-05-15 Mon 19:35:55] =>  00:00:00
-			  :END:
--
