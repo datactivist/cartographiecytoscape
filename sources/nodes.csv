@@ -1,0 +1,131 @@
+node,nature,echeance,description
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,besoin,Besoin 5 juin,Permettre le renvoi vers les pages d’informations propriétaires de Zéro Logement Vacant  et DossierFacile à la fin du parcours déclaratif d’un logement vacant sur GMBI
+BatID,acteur_mte,,
+Pôles données - DTNUM,acteur_mefsin,,Pôles données de la DTNUM
+CL2C,acteur_mefsin,,Bureau maîtrise d'ouvrage du secteur public local 
+MAJIC,bdd,,Fichiers des locaux et des parcelles des personnes morales
+Identifiant de la parcelle,besoin,Besoin 5 juin,"Obtenir un identifiant de parcelle pour y attribuer des valeurs métiers, avec l'historique"
+Réussir le Zéro artificialisation Nette,usage,,Réussir le Zéro artificialisation Nette
+DVF,bdd,,Demandes de valeur foncière
+GF2C,acteur_mefsin,,Animation et gestion de la CFE/IFER/CVAE
+Attribuer BatID aux nouvelles constructions,usage,,Attribuer un identifiant de bâtiment (BatID) aux nouvelles constructions
+DLNUF et UX DossierFacile,usage,,Augmenter la confiance et l'expérience utilisateur de DossierFacile grâce au Dites-le nous une fois (DLNUF)
+Lien immeuble et local GMBI,besoin,Besoin 5 juin,"Renforcer les liens entre l'immeuble et local dans GMBI, en utilisant BatID dans GMBI"
+GF DESF,acteur_mefsin,,Département des études et statistiques fiscales
+DVF (Etalab),acteur_tiers,,
+Locaux commerciaux vacants,besoin,Autre besoin,"Obtenir une liste des locaux commerciaux et professionnels vacants avec l'identification et les contacts des propriétaires, croisée avec la base des exonérés de la CFE"
+Réduire la vacance frictionnelle,usage,,Réduire la vacance frictionnelle des logements
+Amélioration de GMBI grâce aux retours de Zéro Logement Vacant,besoin,Besoin 5 juin,Instaurer un cadre d'échange d'indicateurs construits à partir des différences observées entre les données déclarées GMBI et sur l'outil Zéro Logement Vacant
+Datafoncier,acteur_mte,,Datafoncier Le Cerema réalise pour le compte de la DGALN/DHUP/AD3 en tant que MOA pour améliorer la qualité
+Enrichir le cadastre PCI,usage,,Enrichir le cadastre PCI
+Données de contact des propriétaires bâtiments tertiaires,besoin,Autre besoin,Contacter les propriétaires des bâtiments tertiaires assujettis au dispositif Eco Énergie Tertiaire (base de données de contact des propriétaires et/ou permettre à la DGALN de proposer des contenus dans les communications numériques ciblées de la DGFIP)
+La transparence du secteur immobilier,polpub,,
+Accélerer dispositif Eco-Énergie-Tertiaire,usage,,Accélérer rapidement le dispositif Eco-Énergie-Tertiaire pour atteindre l'objectif de -40% de consommation énergétique en 2030
+FILOCOM,bdd,,Fichier des logements par commune
+Informer propriétaire aides lutte contre la vacance,usage,,Favoriser la remise sur le marché de logements vacants en informant les propriétaires bailleurs des aides pour rénover leurs logements
+Milésimes des vectorisations,besoin,Besoin 5 juin,Accéder aux millésimes de numérisations vectorielles par commune pour répondre à des demandes de contours parcellaires anciens
+Consommation foncière collectivités,usage,,Aider les collectivités territoriales à connaître et piloter leur consommation foncière
+Garantir accès à un parcours de logement adapté,polpub,,
+Retours utilisateurs sur données DVF,besoin,Besoin 5 juin,Pouvoir faire remonter à la DGFiP des retours des réutilisateurs sur la qualité des fichiers MAJIC
+RPCU,bdd,,"Représentation parcellaire cadastrale unique, travaux IGN + DGFIP en cours (cf doc démarche qualité MTE p7)"
+Ministère de l'Intérieur,acteur_tiers,,
+Collectivités locales,acteur_tiers,,"Non représentées dans ce projet, elles profiterons néanmoins des circulations de données en jeu"
+Incubateur Ademe,acteur_mte,,
+Liste des biens d'un usager propriétaire,besoin,Besoin 5 juin,Accéder à la liste des biens avec leurs caractéristiques d’un usager propriétaire pour pré-remplir et vérifier les propriétés saisies dans DossierFacile
+Renforcer connaissance vacance des logements,usage,,Renforcer la connaissance de la vacance de logements en vue d'orienter les politiques publiques locales
+Enrichissement des fichiers MAJIC,besoin,Besoin 5 juin,"Enrichir les données visibles dans les fichiers MAJIC sur des points précis relevé par l'équipe d'Etalab (synthèse transmise à la DGFiP)
+- Date de construction
+- Identifiant de la copro
+- Disponibilité des DPE/GES"
+Données portant sur aides fiscales aux logements,besoin,Autre besoin,"Disposer d’un fichier répertoriant les logements concernés chaque année par chaque régime de défiscalisation, avec une identification à l’adresse (à l’instar de la transmission du fichier recensant les logements vacants) - aménager le secret statistique. "
+Dossier Facile,acteur_mte,,
+LOVAC,bdd,,"Fichier constitué comme le croisement des bases foncier (MAJIC) et données d'occupation (""17-67 discom"")
+"
+Statistiques agrégées des aides fiscales des logements,besoin,Autre besoin,"Disposer de statistiques agrégées à un niveau en-deçà de 11 observations par rapport aux logements bénéficiant d'aides fiscales, par exemple en considérant qu’un logement bénéficiant d’une aide n’est pas une entreprise individuelle, ce qui permettrait d’abaisser le seuil de diffusion à 3 unités. - aménager le secret statistique"
+Limiter les dépenses des collectivités (études foncières),usage,,Limiter les dépenses des collectivités dans des études de la consommation foncière
+Sparte,acteur_mte,,
+La connaissance des logements,polpub,,
+Bien et Perval,bdd,,Différence avec MAJIC? regroupe les prix de vente des transactions immobilières réalisées par un notaire.
+Analyse défiscalisation logements anciens,usage,,Analyser le volume et les effets des logements anciens concernés par des dispositifs de défiscalisation (Pinel Ancien Denormandie Censibouvard et Loc'Avantages) à une échelle géographique fine
+Zero Logement Vacant,acteur_mte,,
+LOCOMVACxx,bdd,,Fichier des locaux commerciaux  et professionnels vacants au sens de la CFE (côtisations foncières des entreprises)
+GF2A,acteur_mefsin,,Animation de la fiscalité des professionnels
+Cerema,acteur_mte,,
+Champs DVF ouverts présents avant 2019,besoin,Autre besoin,"Accéder aux champs présents avant 2019 de DVF, date de mise en open data (voir colonne ""Précisions"" pour le détail) : nature des transactions, biens concernés, code SAGES (= code service), références de publicité, codes de taxation du code général des impôts, identifiant (unique) du local
+"
+Disposer des données occupation de GMBI dans MAJIC,besoin,Autre besoin,"Réintégration de ces données occupation collectées désormais par GMBI directement dans MAJIC. Qu'il n'y ait pas de régression dans la collecte des données par rapport à l’existant : 
+- Variable « ccthp » pour les logements 
+- Variable « typeact » pour les locaux d’activité
+- Matériaux de construction (variables « dmatgm », « dmatto »),
+- L’année de construction (variable « jannat ») 
+"
+GF1B,acteur_mefsin,,Pilotage taxe d’habitation et taxation foncière
+Vers la sobriété foncière,polpub,,
+Inventaire des ZAE,usage,,Accompagner les collectivités dans la réalisation de leur inventaire de zones d'activités économiques (ZAE)
+Mesurer impact de DossierFacile,usage,,Pouvoir mesurer l’impact de DossierFacile et notamment la conversion en bail des DossierFacile
+Connaissance des loyers et des baux,usage,,Connaissance des loyers et des dates des baux à la commune
+Incitations et rappels auprès des propriétaires,usage,,Communiquer des incitations et rappels des obligations auprès des propriétaires
+Inventaire des propriétaires pour les ZAE,usage,,Inventaire des propriétaires pour les ZAE
+Documentation des fichiers fonciers,besoin,Besoin 5 juin,Répondre aux questions relatives à la documentation des fichiers fonciers posées par les collectivités territoriales
+Taxe Gemapi Budget Gemapi des EPCI-FP ,bdd,,
+Etalab,acteur_tiers,,
+Éviter les erreurs de traitements DVF et DV3F,usage,,Éviter les erreurs de traitements DVF et DV3F
+GF1A,acteur_mefsin,,Animation de la fiscalité des particuliers
+Prix des loyers obligatoires dans GMBI,besoin,Autre besoin,Rendre le renseignement des prix des loyers et de la date de signature du bail obligatoire sur GMBI
+Qualité des fichiers fonciers,besoin,Besoin 5 juin,Modifications de qualité des données des fichiers fonciers afin de les utiliser pour suivre la consommation de l'espace 
+CFE,bdd,,Côtisations foncières des entreprises
+Garantir un aménagement durable et la cohérsion des territoires,polpub,,
+GF3B,acteur_mefsin,,Bureau Publicité foncière et fiscalité du patrimoine
+SDES,acteur_mte,,SSM MTE
+Adapter zonages immobiliers,usage,,Adapter les zonages à la tension sur les marchés immobiliers
+La lutte contre artificialisation des sols,polpub,,
+Lier bâtiments et locaux au sein des référentiels fiscaux,usage,,Lier bâtiments et locaux au sein des référentiels fiscaux
+Connaissance sur les logements,usage,,Améliorer la connaissance sur les logements via plusieurs sources
+Enrichir DVF avec Bien et Perval,usage,,Enrichir DVF grâce aux données Bien et Perval qui ont des informations sur les transactions
+Réglementations urbanisme et environnement,usage,,Usage de tous les services destinés à l'information et à l'instruction sur fond de plan cadastral notamment pour les réglementations (urbanisme et environnement)
+Durée réception des fichiers fonciers,besoin,Besoin 5 juin,Réduire la durée de réception des fichiers fonciers (les recevoir en même temps que les collectivités territoriales)
+AD3,acteur_mte,,bureau de la connaissance et des politiques foncières AD3
+Politique habitat et logement,polpub,,
+ID unique national des logements,besoin,Autre besoin,Disposer d'un identifiant unique national des logements
+Obtention du modèle des données GMBI,besoin,Autre besoin,Obtention du modèle des données GMBI pour connaître les nouvelles données qui seront collectées grâce à cet outil
+GF3A,acteur_mefsin,,Gestion fiscal - Bureau du cadastre
+ANAH,acteur_tiers,,
+Etablir une relation entre RLoc et BatID,besoin,Besoin 5 juin,Intégrer l'identifiant BatID dans le référentiel RLoc afin d'associer l'immeuble aux locaux qu'il contient (à terme pour l'exposer dans le RIAL)
+Revenu fiscal d’un candidat locataire,besoin,Besoin 5 juin,Accéder au revenu fiscal de référence d’un candidat locataire
+Connaissance évolutation marché foncier,usage,,Améliorer la connaissance sur l'état et l'évolution du marché foncier dans les territoires
+Données d'occupation ponctuelles GMBI,besoin,Besoin 5 juin,Accéder à la donnée d’occupation des logements (statut vacant et non vacant) en temps réel
+Role CFE,bdd,,
+Vérifier les occupants et le montant des loyers sur GMBI,besoin,Besoin 5 juin,Pouvoir vérifier le statut locataire déclaré par un candidat locataire et les données figurant sur sa quittance de loyer (Données de l’occupant du bien ; Données du propriétaire du bien ; Caractéristiques du bien ; Données du montant du loyer)
+Formulaires d'achèvement de travaux (Grenoble),besoin,Besoin 5 juin,Accéder aux données des formulaires d'achèvement de travaux établis sur le territoire de la métropole de Grenoble
+Connaissance et régulation du marché locatif,polpub,,
+Lutte contre la vacance,polpub,,
+Données des notaires,besoin,Autre besoin,Disposer des données des notaires (Bien et Perval) sans redevance
+Traçabilité des financements de rénovation énergétique,usage,,Améliorer la traçabilité des financements de la rénovation énergétique des bâtiments
+Favoriser la transformation de bureaux en logements,usage,,Favoriser la transformation de bureaux en logements
+Ecolab,acteur_mte,,
+Améliorer la performance énergétique et environnementale des bâtiments,polpub,,
+Cause de la vacance nouveau champ GMBI,besoin,Besoin 5 juin,Connaître les causes de la vacance en introduisant une question supplémentaire dans le parcours déclaratif GMBI
+API RIAL,besoin,Autre besoin,"Mise en place d'une API RIAL par la DGFiP, exposant une partie du référentiel national des locaux (R-Loc) qui contient l'identifiant fiscal du local"
+RLOC,bdd,,Répertoire avec invariant fiscal
+Alimenter Cartofriches avec les données CFE,usage,,Alimenter Cartofriches avec les données CFE pour mobiliser les friches dans les projets d'aménagement
+Faciliter contact avec les propiétaires GMBI,besoin,Besoin 5 juin,Faciliter la prise de contact avec les propriétaires de logements vacants
+Moyen de transmission du cadastre,besoin,Autre besoin,"Mise en place d'une API pour l'accès au cadastre, actuellement envoyé à Etalab via un disque dur "
+Géoportail Urbanisme - politiques urbaines,polpub,,
+GMBI,bdd,,Gérer mes biens immobiliers
+Croiser DVF et MAJIC,usage,,Croiser les données DVF (mutations des locaux) avec la base MAJIC (informations sur les locaux) pour pouvoir identifier les mutations que connaissent les locaux sur le temps
+CL2A,acteur_mefsin,,Bureau du conseil fiscal et de la valorisation financière du secteur public local et du secteur public de santé
+Enrichissement de la nouvelle version de l’application DVF d’Etalab,usage,,Enrichissement de la nouvelle version de l’application DVF d’Etalab
+Disposer du plan cadastral actualisé de manière automatique et simplifiée,usage,,Disposer du plan cadastral actualisé de manière automatique et simplifiée
+Identifiant fiscal dans les données cadastrales,besoin,Autre besoin,"Inclusion d'identifiants fiscaux nationaux dans les données cadastrales reçues par le SDES (actuellement, les propriétaires des biens ne sont identifiés que par des données relatives à leur état civil)"
+Objectifs Loi Climat et Résilience,polpub,,
+SCE CL,acteur_mefsin,,Service collectivités locales
+CADASTRE,bdd,,Cadastre et Plan cadastral informatisé
+"Statut ""locataire actuel récent""",besoin,Besoin 5 juin,Vérifier le statut “locataire actuel récent” d’un candidat dont le dossier sur DossierFacile a été validé récemment.
+Lien DPE et travaux rénovations,usage,,Créer un lien entre les classes de performance énergétique (DPE) et les travaux de rénovations énergétiques déclarés
+Moyen de transmission des fichiers MAJIC,besoin,Autre besoin,Obtenir les fichiers MAJIC par un autre moyen que via CDROM
+Retours utilisateurs pour la DGFIP,usage,,Permettre à la DGFIP de disposer de retours d'utilisateurs divers (collectivités particuliers etc) sur ses données et ses produits
+RIAL (RLOC),bdd,,Répertoire inter-administratif des locaux
+DGALN (ICAPP/NUM),acteur_mte,,
+Socle de plusieurs politiques publiques,polpub,,
+REI,bdd,,Impôts locaux : fichier de recensement des éléments d'imposition à la fiscalité directe locale (REI)
+Bercy Hub,acteur_mefsin,,Bercy Hub
