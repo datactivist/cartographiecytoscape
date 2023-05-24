@@ -1,0 +1,278 @@
+in,out,link
+Incitations et rappels auprès des propriétaires,Garantir accès à un parcours de logement adapté,usage_polpub
+Qualité des fichiers fonciers,DGALN (ICAPP/NUM),besoin_dgaln
+Lien immeuble et local GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Disposer des données occupation de GMBI dans MAJIC,Cerema,besoin_dgaln
+Connaissance sur les logements,Garantir accès à un parcours de logement adapté,usage_polpub
+Locaux commerciaux vacants,AD3,besoin_dgaln
+Documentation des fichiers fonciers,Sparte,besoin_dgaln
+Données de contact des propriétaires bâtiments tertiaires,DGALN (ICAPP/NUM),besoin_dgaln
+Revenu fiscal d’un candidat locataire,DLNUF et UX DossierFacile,besoin_usage
+Prix des loyers obligatoires dans GMBI,GF3A,besoin_dgfip
+Alimenter Cartofriches avec les données CFE,Vers la sobriété foncière,usage_polpub
+Identifiant de la parcelle,CADASTRE,besoin_bdd
+Données des notaires,Bien et Perval,besoin_bdd
+Revenu fiscal d’un candidat locataire,DGALN (ICAPP/NUM),besoin_dgaln
+Locaux commerciaux vacants,DGALN (ICAPP/NUM),besoin_dgaln
+Prix des loyers obligatoires dans GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+"Statut ""locataire actuel récent""",DGALN (ICAPP/NUM),besoin_dgaln
+Vérifier les occupants et le montant des loyers sur GMBI,GMBI,besoin_bdd
+Prix des loyers obligatoires dans GMBI,Connaissance des loyers et des baux,besoin_usage
+Cause de la vacance nouveau champ GMBI,Renforcer connaissance vacance des logements,besoin_usage
+Formulaires d'achèvement de travaux (Grenoble),GF3A,besoin_dgfip
+Faciliter contact avec les propiétaires GMBI,Zero Logement Vacant,besoin_dgaln
+RLOC,GF3A,bdd_producteur
+Renforcer connaissance vacance des logements,Lutte contre la vacance,usage_polpub
+Champs DVF ouverts présents avant 2019,DGALN (ICAPP/NUM),besoin_dgaln
+Données portant sur aides fiscales aux logements,DGALN (ICAPP/NUM),besoin_dgaln
+Durée réception des fichiers fonciers,CADASTRE,besoin_bdd
+Données d'occupation ponctuelles GMBI,GF3A,besoin_dgfip
+Disposer des données occupation de GMBI dans MAJIC,GMBI,besoin_bdd
+Données des notaires,Ministère de l'Intérieur,besoin_dgfip
+Champs DVF ouverts présents avant 2019,Enrichissement de la nouvelle version de l’application DVF d’Etalab,besoin_usage
+Identifiant fiscal dans les données cadastrales,CADASTRE,besoin_bdd
+Vérifier les occupants et le montant des loyers sur GMBI,GF1B,besoin_dgfip
+Inventaire des ZAE,Objectifs Loi Climat et Résilience,usage_polpub
+Favoriser la transformation de bureaux en logements,Vers la sobriété foncière,usage_polpub
+ID unique national des logements,Connaissance sur les logements,besoin_usage
+Statistiques agrégées des aides fiscales des logements,Collectivités locales,besoin_dgaln
+Moyen de transmission des fichiers MAJIC,Cerema,besoin_dgaln
+Réussir le Zéro artificialisation Nette,La lutte contre artificialisation des sols,usage_polpub
+Enrichir DVF avec Bien et Perval,Politique habitat et logement,usage_polpub
+Connaissance sur les logements,Politique habitat et logement,usage_polpub
+Documentation des fichiers fonciers,Limiter les dépenses des collectivités (études foncières),besoin_usage
+Alimenter Cartofriches avec les données CFE,La lutte contre artificialisation des sols,usage_polpub
+Champs DVF ouverts présents avant 2019,SCE CL,besoin_dgfip
+Amélioration de GMBI grâce aux retours de Zéro Logement Vacant,Zero Logement Vacant,besoin_dgaln
+Limiter les dépenses des collectivités (études foncières),Garantir un aménagement durable et la cohérsion des territoires,usage_polpub
+Champs DVF ouverts présents avant 2019,DVF,besoin_bdd
+MAJIC,GF3A,bdd_producteur
+Éviter les erreurs de traitements DVF et DV3F,La connaissance des logements,usage_polpub
+Documentation des fichiers fonciers,MAJIC,besoin_bdd
+Données d'occupation ponctuelles GMBI,Renforcer connaissance vacance des logements,besoin_usage
+Lien immeuble et local GMBI,BatID,besoin_dgaln
+Qualité des fichiers fonciers,CADASTRE,besoin_bdd
+Enrichir DVF avec Bien et Perval,Connaissance et régulation du marché locatif,usage_polpub
+Revenu fiscal d’un candidat locataire,Dossier Facile,besoin_dgaln
+Données d'occupation ponctuelles GMBI,Connaissance sur les logements,besoin_usage
+Données d'occupation ponctuelles GMBI,GMBI,besoin_bdd
+Réglementations urbanisme et environnement,Socle de plusieurs politiques publiques,usage_polpub
+Disposer du plan cadastral actualisé de manière automatique et simplifiée,Géoportail Urbanisme - politiques urbaines,usage_polpub
+Moyen de transmission du cadastre,GF3A,besoin_dgfip
+Moyen de transmission du cadastre,Etalab,besoin_dgaln
+Adapter zonages immobiliers,Connaissance et régulation du marché locatif,usage_polpub
+Moyen de transmission des fichiers MAJIC,DVF (Etalab),besoin_dgaln
+Lien immeuble et local GMBI,GF1B,besoin_dgfip
+Renforcer connaissance vacance des logements,La lutte contre artificialisation des sols,usage_polpub
+Durée réception des fichiers fonciers,Limiter les dépenses des collectivités (études foncières),besoin_usage
+Obtention du modèle des données GMBI,Zero Logement Vacant,besoin_dgaln
+Croiser DVF et MAJIC,La connaissance des logements,usage_polpub
+Etablir une relation entre RLoc et BatID,RLOC,besoin_bdd
+Analyse défiscalisation logements anciens,Garantir accès à un parcours de logement adapté,usage_polpub
+Vérifier les occupants et le montant des loyers sur GMBI,GF3A,besoin_dgfip
+Connaissance évolutation marché foncier,Garantir accès à un parcours de logement adapté,usage_polpub
+Identifiant fiscal dans les données cadastrales,SDES,besoin_dgaln
+Prix des loyers obligatoires dans GMBI,GMBI,besoin_bdd
+Faciliter contact avec les propiétaires GMBI,Informer propriétaire aides lutte contre la vacance,besoin_usage
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,Réduire la vacance frictionnelle,besoin_usage
+Identifiant de la parcelle,DGALN (ICAPP/NUM),besoin_dgaln
+API RIAL,GF3A,besoin_dgfip
+Connaissance des loyers et des baux,Connaissance et régulation du marché locatif,usage_polpub
+Champs DVF ouverts présents avant 2019,CL2A,besoin_dgfip
+Alimenter Cartofriches avec les données CFE,Objectifs Loi Climat et Résilience,usage_polpub
+Identifiant de la parcelle,DVF (Etalab),besoin_dgaln
+Statistiques agrégées des aides fiscales des logements,Analyse défiscalisation logements anciens,besoin_usage
+Enrichir DVF avec Bien et Perval,La transparence du secteur immobilier,usage_polpub
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,GF1B,besoin_dgfip
+Champs DVF ouverts présents avant 2019,DVF (Etalab),besoin_dgaln
+Formulaires d'achèvement de travaux (Grenoble),Attribuer BatID aux nouvelles constructions,besoin_usage
+Etablir une relation entre RLoc et BatID,Lier bâtiments et locaux au sein des référentiels fiscaux,besoin_usage
+Données portant sur aides fiscales aux logements,Analyse défiscalisation logements anciens,besoin_usage
+Lien immeuble et local GMBI,GMBI,besoin_bdd
+Amélioration de GMBI grâce aux retours de Zéro Logement Vacant,Retours utilisateurs pour la DGFIP,besoin_usage
+Enrichir le cadastre PCI,Socle de plusieurs politiques publiques,usage_polpub
+Etablir une relation entre RLoc et BatID,DGALN (ICAPP/NUM),besoin_dgaln
+Champs DVF ouverts présents avant 2019,Analyse défiscalisation logements anciens,besoin_usage
+Obtention du modèle des données GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Durée réception des fichiers fonciers,Consommation foncière collectivités,besoin_usage
+Lier bâtiments et locaux au sein des référentiels fiscaux,Objectifs Loi Climat et Résilience,usage_polpub
+Réduire la vacance frictionnelle,Lutte contre la vacance,usage_polpub
+Milésimes des vectorisations,GF3A,besoin_dgfip
+Faciliter contact avec les propiétaires GMBI,GMBI,besoin_bdd
+Champs DVF ouverts présents avant 2019,GF3B,besoin_dgfip
+Amélioration de GMBI grâce aux retours de Zéro Logement Vacant,GF1B,besoin_dgfip
+Informer propriétaire aides lutte contre la vacance,Lutte contre la vacance,usage_polpub
+Cause de la vacance nouveau champ GMBI,GMBI,besoin_bdd
+Données des notaires,SDES,besoin_dgaln
+Etablir une relation entre RLoc et BatID,RIAL (RLOC),besoin_bdd
+Prix des loyers obligatoires dans GMBI,Adapter zonages immobiliers,besoin_usage
+Retours utilisateurs pour la DGFIP,Socle de plusieurs politiques publiques,usage_polpub
+"Statut ""locataire actuel récent""",Dossier Facile,besoin_dgaln
+Liste des biens d'un usager propriétaire,Réduire la vacance frictionnelle,besoin_usage
+Liste des biens d'un usager propriétaire,GF3A,besoin_dgfip
+Cause de la vacance nouveau champ GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Locaux commerciaux vacants,LOCOMVACxx,besoin_bdd
+Qualité des fichiers fonciers,Limiter les dépenses des collectivités (études foncières),besoin_usage
+Obtention du modèle des données GMBI,Dossier Facile,besoin_dgaln
+CADASTRE,GF3A,bdd_producteur
+Champs DVF ouverts présents avant 2019,Croiser DVF et MAJIC,besoin_usage
+Statistiques agrégées des aides fiscales des logements,DGALN (ICAPP/NUM),besoin_dgaln
+Connaissance des loyers et des baux,La transparence du secteur immobilier,usage_polpub
+Disposer des données occupation de GMBI dans MAJIC,GF1B,besoin_dgfip
+API RIAL,RIAL (RLOC),besoin_bdd
+Liste des biens d'un usager propriétaire,Dossier Facile,besoin_dgaln
+Locaux commerciaux vacants,GF2C,besoin_dgfip
+API RIAL,SDES,besoin_dgaln
+Milésimes des vectorisations,DGALN (ICAPP/NUM),besoin_dgaln
+Locaux commerciaux vacants,Alimenter Cartofriches avec les données CFE,besoin_usage
+Identifiant de la parcelle,GF3A,besoin_dgfip
+Champs DVF ouverts présents avant 2019,AD3,besoin_dgaln
+Enrichissement de la nouvelle version de l’application DVF d’Etalab,La transparence du secteur immobilier,usage_polpub
+Vérifier les occupants et le montant des loyers sur GMBI,Dossier Facile,besoin_dgaln
+Données d'occupation ponctuelles GMBI,Zero Logement Vacant,besoin_dgaln
+Milésimes des vectorisations,DVF (Etalab),besoin_dgaln
+DLNUF et UX DossierFacile,Politique habitat et logement,usage_polpub
+Connaissance des loyers et des baux,Lutte contre la vacance,usage_polpub
+Enrichissement des fichiers MAJIC,MAJIC,besoin_bdd
+Etablir une relation entre RLoc et BatID,BatID,besoin_dgaln
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,Dossier Facile,besoin_dgaln
+Limiter les dépenses des collectivités (études foncières),Objectifs Loi Climat et Résilience,usage_polpub
+Disposer des données occupation de GMBI dans MAJIC,Renforcer connaissance vacance des logements,besoin_usage
+Réglementations urbanisme et environnement,Géoportail Urbanisme - politiques urbaines,usage_polpub
+Statistiques agrégées des aides fiscales des logements,SDES,besoin_dgaln
+Connaissance évolutation marché foncier,La connaissance des logements,usage_polpub
+Retours utilisateurs sur données DVF,Retours utilisateurs pour la DGFIP,besoin_usage
+Incitations et rappels auprès des propriétaires,La transparence du secteur immobilier,usage_polpub
+Durée réception des fichiers fonciers,GF3A,besoin_dgfip
+Obtention du modèle des données GMBI,GF1B,besoin_dgfip
+Alimenter Cartofriches avec les données CFE,Lutte contre la vacance,usage_polpub
+Retours utilisateurs sur données DVF,MAJIC,besoin_bdd
+Obtention du modèle des données GMBI,GMBI,besoin_bdd
+Limiter les dépenses des collectivités (études foncières),Vers la sobriété foncière,usage_polpub
+Consommation foncière collectivités,Vers la sobriété foncière,usage_polpub
+Locaux commerciaux vacants,Inventaire des ZAE,besoin_usage
+Identifiant fiscal dans les données cadastrales,Connaissance sur les logements,besoin_usage
+Formulaires d'achèvement de travaux (Grenoble),BatID,besoin_dgaln
+Consommation foncière collectivités,Garantir un aménagement durable et la cohérsion des territoires,usage_polpub
+Locaux commerciaux vacants,Role CFE,besoin_bdd
+Enrichissement de la nouvelle version de l’application DVF d’Etalab,La connaissance des logements,usage_polpub
+Lier bâtiments et locaux au sein des référentiels fiscaux,Socle de plusieurs politiques publiques,usage_polpub
+Qualité des fichiers fonciers,Consommation foncière collectivités,besoin_usage
+Obtention du modèle des données GMBI,Connaissance sur les logements,besoin_usage
+Qualité des fichiers fonciers,Sparte,besoin_dgaln
+Locaux commerciaux vacants,Cerema,besoin_dgaln
+Attribuer BatID aux nouvelles constructions,Socle de plusieurs politiques publiques,usage_polpub
+ID unique national des logements,GF3A,besoin_dgfip
+Réussir le Zéro artificialisation Nette,Objectifs Loi Climat et Résilience,usage_polpub
+Retours utilisateurs sur données DVF,DVF (Etalab),besoin_dgaln
+Etablir une relation entre RLoc et BatID,GF3A,besoin_dgfip
+Vérifier les occupants et le montant des loyers sur GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Adapter zonages immobiliers,Politique habitat et logement,usage_polpub
+Milésimes des vectorisations,CADASTRE,besoin_bdd
+Consommation foncière collectivités,Objectifs Loi Climat et Résilience,usage_polpub
+Vérifier les occupants et le montant des loyers sur GMBI,Réduire la vacance frictionnelle,besoin_usage
+RIAL (RLOC),GF3A,bdd_producteur
+Traçabilité des financements de rénovation énergétique,Améliorer la performance énergétique et environnementale des bâtiments,usage_polpub
+Consommation foncière collectivités,La lutte contre artificialisation des sols,usage_polpub
+Amélioration de GMBI grâce aux retours de Zéro Logement Vacant,GMBI,besoin_bdd
+Accélerer dispositif Eco-Énergie-Tertiaire,Améliorer la performance énergétique et environnementale des bâtiments,usage_polpub
+Données d'occupation ponctuelles GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Connaissance évolutation marché foncier,La transparence du secteur immobilier,usage_polpub
+Informer propriétaire aides lutte contre la vacance,Objectifs Loi Climat et Résilience,usage_polpub
+Données portant sur aides fiscales aux logements,GF DESF,besoin_dgfip
+ID unique national des logements,DGALN (ICAPP/NUM),besoin_dgaln
+Champs DVF ouverts présents avant 2019,Éviter les erreurs de traitements DVF et DV3F,besoin_usage
+Documentation des fichiers fonciers,CADASTRE,besoin_bdd
+Vérifier les occupants et le montant des loyers sur GMBI,DLNUF et UX DossierFacile,besoin_usage
+Limiter les dépenses des collectivités (études foncières),La lutte contre artificialisation des sols,usage_polpub
+Croiser DVF et MAJIC,Politique habitat et logement,usage_polpub
+Revenu fiscal d’un candidat locataire,Réduire la vacance frictionnelle,besoin_usage
+Disposer des données occupation de GMBI dans MAJIC,Connaissance sur les logements,besoin_usage
+Statistiques agrégées des aides fiscales des logements,GF DESF,besoin_dgfip
+Durée réception des fichiers fonciers,MAJIC,besoin_bdd
+Documentation des fichiers fonciers,DGALN (ICAPP/NUM),besoin_dgaln
+Retours utilisateurs sur données DVF,DGALN (ICAPP/NUM),besoin_dgaln
+DLNUF et UX DossierFacile,Lutte contre la vacance,usage_polpub
+Champs DVF ouverts présents avant 2019,Cerema,besoin_dgaln
+Attribuer BatID aux nouvelles constructions,Politique habitat et logement,usage_polpub
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,Zero Logement Vacant,besoin_dgaln
+Enrichissement des fichiers MAJIC,Retours utilisateurs pour la DGFIP,besoin_usage
+Renforcer connaissance vacance des logements,Objectifs Loi Climat et Résilience,usage_polpub
+Qualité des fichiers fonciers,GF3A,besoin_dgfip
+Inventaire des ZAE,La lutte contre artificialisation des sols,usage_polpub
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,GMBI,besoin_bdd
+Connaissance évolutation marché foncier,Politique habitat et logement,usage_polpub
+Adapter zonages immobiliers,La transparence du secteur immobilier,usage_polpub
+Inventaire des propriétaires pour les ZAE,Vers la sobriété foncière,usage_polpub
+Enrichissement des fichiers MAJIC,DVF (Etalab),besoin_dgaln
+"Statut ""locataire actuel récent""",GF3A,besoin_dgfip
+Durée réception des fichiers fonciers,Cerema,besoin_dgaln
+Cause de la vacance nouveau champ GMBI,Zero Logement Vacant,besoin_dgaln
+Disposer des données occupation de GMBI dans MAJIC,GF3A,besoin_dgfip
+Faciliter contact avec les propiétaires GMBI,DGALN (ICAPP/NUM),besoin_dgaln
+Revenu fiscal d’un candidat locataire,Pôles données - DTNUM,besoin_dgfip
+API RIAL,Lien DPE et travaux rénovations,besoin_usage
+Liste des biens d'un usager propriétaire,DLNUF et UX DossierFacile,besoin_usage
+LOVAC,Cerema,bdd_producteur
+Données de contact des propriétaires bâtiments tertiaires,GF2C,besoin_dgfip
+API RIAL,RLOC,besoin_bdd
+Durée réception des fichiers fonciers,DGALN (ICAPP/NUM),besoin_dgaln
+Croiser DVF et MAJIC,Garantir accès à un parcours de logement adapté,usage_polpub
+API RIAL,DGALN (ICAPP/NUM),besoin_dgaln
+Données de contact des propriétaires bâtiments tertiaires,Accélerer dispositif Eco-Énergie-Tertiaire,besoin_usage
+ID unique national des logements,SDES,besoin_dgaln
+"Statut ""locataire actuel récent""",GF1B,besoin_dgfip
+Favoriser la transformation de bureaux en logements,La lutte contre artificialisation des sols,usage_polpub
+Données d'occupation ponctuelles GMBI,GF1B,besoin_dgfip
+Formulaires d'achèvement de travaux (Grenoble),DGALN (ICAPP/NUM),besoin_dgaln
+Disposer du plan cadastral actualisé de manière automatique et simplifiée,Socle de plusieurs politiques publiques,usage_polpub
+Lien DPE et travaux rénovations,Améliorer la performance énergétique et environnementale des bâtiments,usage_polpub
+Lien immeuble et local GMBI,GF3A,besoin_dgfip
+Prix des loyers obligatoires dans GMBI,GF1B,besoin_dgfip
+Moyen de transmission du cadastre,CADASTRE,besoin_bdd
+Inventaire des propriétaires pour les ZAE,Objectifs Loi Climat et Résilience,usage_polpub
+Enrichissement des fichiers MAJIC,DGALN (ICAPP/NUM),besoin_dgaln
+Réduire la vacance frictionnelle,Connaissance et régulation du marché locatif,usage_polpub
+Favoriser la transformation de bureaux en logements,Objectifs Loi Climat et Résilience,usage_polpub
+Cause de la vacance nouveau champ GMBI,GF1B,besoin_dgfip
+Moyen de transmission du cadastre,DGALN (ICAPP/NUM),besoin_dgaln
+Locaux commerciaux vacants,Collectivités locales,besoin_dgaln
+Données des notaires,Enrichir DVF avec Bien et Perval,besoin_usage
+Lien immeuble et local GMBI,RIAL (RLOC),besoin_bdd
+Champs DVF ouverts présents avant 2019,Collectivités locales,besoin_dgaln
+Durée réception des fichiers fonciers,Sparte,besoin_dgaln
+Informer propriétaire aides lutte contre la vacance,La lutte contre artificialisation des sols,usage_polpub
+Faciliter contact avec les propiétaires GMBI,GF1B,besoin_dgfip
+Champs DVF ouverts présents avant 2019,Connaissance évolutation marché foncier,besoin_usage
+Éviter les erreurs de traitements DVF et DV3F,La transparence du secteur immobilier,usage_polpub
+Moyen de transmission des fichiers MAJIC,MAJIC,besoin_bdd
+Connaissance sur les logements,La transparence du secteur immobilier,usage_polpub
+Inventaire des propriétaires pour les ZAE,La lutte contre artificialisation des sols,usage_polpub
+Données des notaires,DGALN (ICAPP/NUM),besoin_dgaln
+Qualité des fichiers fonciers,MAJIC,besoin_bdd
+Moyen de transmission du cadastre,Disposer du plan cadastral actualisé de manière automatique et simplifiée,besoin_usage
+Lien de GMBI vers Zéro Logement Vacant et DossierFacile,GF3A,besoin_dgfip
+Identifiant fiscal dans les données cadastrales,Incitations et rappels auprès des propriétaires,besoin_usage
+Données portant sur aides fiscales aux logements,Collectivités locales,besoin_dgaln
+GMBI,GF1B,bdd_producteur
+"Statut ""locataire actuel récent""",GMBI,besoin_bdd
+Lien immeuble et local GMBI,Lier bâtiments et locaux au sein des référentiels fiscaux,besoin_usage
+Locaux commerciaux vacants,ANAH,besoin_dgaln
+ID unique national des logements,RLOC,besoin_bdd
+Obtention du modèle des données GMBI,Cerema,besoin_dgaln
+Réussir le Zéro artificialisation Nette,Vers la sobriété foncière,usage_polpub
+Croiser DVF et MAJIC,La transparence du secteur immobilier,usage_polpub
+Identifiant fiscal dans les données cadastrales,GF3A,besoin_dgfip
+Réduire la vacance frictionnelle,Politique habitat et logement,usage_polpub
+Identifiant de la parcelle,Réglementations urbanisme et environnement,besoin_usage
+Milésimes des vectorisations,Réglementations urbanisme et environnement,besoin_usage
+Connaissance des loyers et des baux,Politique habitat et logement,usage_polpub
+"Statut ""locataire actuel récent""",Réduire la vacance frictionnelle,besoin_usage
+Inventaire des ZAE,Garantir un aménagement durable et la cohérsion des territoires,usage_polpub
+Liste des biens d'un usager propriétaire,DGALN (ICAPP/NUM),besoin_dgaln
+Documentation des fichiers fonciers,GF3A,besoin_dgfip
+Liste des biens d'un usager propriétaire,RIAL (RLOC),besoin_bdd
+Liste des biens d'un usager propriétaire,RLOC,besoin_bdd
+Disposer des données occupation de GMBI dans MAJIC,DGALN (ICAPP/NUM),besoin_dgaln
+Documentation des fichiers fonciers,Consommation foncière collectivités,besoin_usage
+Moyen de transmission des fichiers MAJIC,Réglementations urbanisme et environnement,besoin_usage
