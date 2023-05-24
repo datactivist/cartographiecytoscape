@@ -2,150 +2,198 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "size_rank_0",
+  "title" : "Sample1",
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 12.0,
-      "background-color" : "rgb(204,204,255)",
+      "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "rectangle",
-      "text-opacity" : 1.0,
-      "height" : 12.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 9,
       "color" : "rgb(51,51,51)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(76,76,76)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "default",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
       "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 75.0,
-      "background-color" : "rgb(137,208,245)",
-      "text-valign" : "center",
-      "text-halign" : "center",
-      "shape" : "roundrectangle",
-      "text-opacity" : 1.0,
-      "height" : 35.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(204,204,204)",
-      "font-size" : 12,
-      "color" : "rgb(0,0,0)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node[Nature = 'BDD']",
-    "css" : {
-      "background-color" : "rgb(254,217,118)"
-    }
-  }, {
-    "selector" : "node[Nature = 'besoin']",
-    "css" : {
-      "background-color" : "rgb(43,140,190)"
-    }
-  }, {
-    "selector" : "node[Nature = 'Bureau']",
-    "css" : {
-      "background-color" : "rgb(203,24,29)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(132,132,132)",
-      "opacity" : 1.0,
+      "shape" : "ellipse",
       "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
       "font-family" : "Dialog.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Sample3",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 20.0,
-      "background-color" : "rgb(61,154,255)",
-      "text-valign" : "bottom",
-      "text-halign" : "right",
-      "shape" : "ellipse",
+      "background-color" : "rgb(127,205,187)",
+      "width" : 25.0,
       "text-opacity" : 1.0,
-      "height" : 20.0,
-      "border-width" : 8.0,
-      "border-color" : "rgb(255,255,255)",
-      "font-size" : 14,
-      "color" : "rgb(206,206,206)",
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 25.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -154,20 +202,30 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(255,255,255)",
-      "opacity" : 1.0,
-      "font-size" : 10,
+      "line-style" : "solid",
       "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
+      "text-opacity" : 1.0,
+      "width" : 1.0,
       "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "SansSerif.plain",
+      "font-family" : "Dialog.plain",
       "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(51,51,51)",
+      "line-color" : "rgb(153,153,153)",
+      "content" : "data(interaction)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'pp']",
+    "css" : {
       "line-style" : "solid"
+    }
+  }, {
+    "selector" : "edge[interaction = 'pd']",
+    "css" : {
+      "line-style" : "dashed"
     }
   }, {
     "selector" : "edge:selected",
@@ -183,23 +241,194 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "width" : 40.0,
-      "background-color" : "rgb(102,102,102)",
+      "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 40.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 14,
       "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 14,
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(102,102,102)",
+      "width" : 40.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 40.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -208,19 +437,19 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(204,204,204)",
-      "opacity" : 1.0,
-      "font-size" : 10,
+      "line-style" : "solid",
       "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
+      "text-opacity" : 1.0,
       "width" : 12.0,
-      "target-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
       "font-family" : "Dialog.plain",
       "font-weight" : "normal",
-      "line-style" : "solid",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(204,204,204)",
       "content" : "data(interaction)"
     }
   }, {
@@ -233,49 +462,220 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "Marquee",
+  "title" : "size_rank",
   "style" : [ {
     "selector" : "node",
     "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(51,51,51)",
       "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
+      "shape" : "rectangle",
+      "font-size" : 9,
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "width" : 20.0,
-      "background-color" : "rgb(0,204,255)",
-      "text-valign" : "bottom",
-      "text-halign" : "center",
-      "shape" : "ellipse",
+      "background-color" : "rgb(204,204,255)",
+      "width" : 12.0,
       "text-opacity" : 1.0,
-      "height" : 20.0,
-      "border-width" : 10.0,
-      "border-color" : "rgb(255,255,255)",
-      "font-size" : 12,
-      "color" : "rgb(102,102,102)",
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 12.0,
       "content" : "data(name)"
     }
   }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
     "selector" : "node:selected",
     "css" : {
-      "background-color" : "rgb(255,0,102)"
+      "background-color" : "rgb(255,255,0)"
     }
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(255,255,255)",
-      "line-color" : "rgb(255,255,255)",
-      "opacity" : 1.0,
-      "font-size" : 8,
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
       "source-arrow-shape" : "none",
-      "color" : "rgb(102,102,102)",
-      "target-arrow-shape" : "triangle",
+      "text-opacity" : 1.0,
       "width" : 2.0,
-      "target-arrow-color" : "rgb(255,255,255)",
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "dashed",
-      "content" : "data(interaction)"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(76,76,76)"
     }
   }, {
     "selector" : "edge:selected",
@@ -291,21 +691,21 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 20.0,
-      "background-color" : "rgb(255,255,255)",
+      "border-width" : 2.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 20.0,
-      "border-width" : 2.0,
-      "border-color" : "rgb(0,102,102)",
-      "font-size" : 12,
       "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 12,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 20.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,102,102)",
+      "height" : 20.0,
       "content" : "data(name)"
     }
   }, {
@@ -314,159 +714,84 @@ var styles = [ {
       "background-color" : "rgb(255,255,255)"
     }
   }, {
+    "selector" : "node[BIOPAX_TYPE = 'BiochemicalReaction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'GeneticInteraction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Interaction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TransportWithBiochemicalReaction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Complex']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Degradation']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Control']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TemplateReactionRegulation']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'MolecularInteraction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Modulation']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TemplateReaction']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Catalysis']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Transport']",
+    "css" : {
+      "width" : 13.4
+    }
+  }, {
     "selector" : "node[BIOPAX_TYPE = 'Complex']",
     "css" : {
       "border-color" : "rgb(0,102,102)"
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'BiochemicalReaction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'GeneticInteraction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Interaction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TransportWithBiochemicalReaction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Complex']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Degradation']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Control']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TemplateReactionRegulation']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'MolecularInteraction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Modulation']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TemplateReaction']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Catalysis']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Transport']",
-    "css" : {
-      "height" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'BiochemicalReaction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'GeneticInteraction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Interaction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TransportWithBiochemicalReaction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Complex']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Degradation']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Control']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TemplateReactionRegulation']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'MolecularInteraction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Modulation']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'TemplateReaction']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Catalysis']",
-    "css" : {
-      "width" : 13.4
-    }
-  }, {
-    "selector" : "node[BIOPAX_TYPE = 'Transport']",
-    "css" : {
-      "width" : 13.4
     }
   }, {
     "selector" : "node[BIOPAX_TYPE = 'SimplePhysicalEntity']",
@@ -499,12 +824,12 @@ var styles = [ {
       "shape" : "rectangle"
     }
   }, {
-    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
+    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
     "css" : {
       "shape" : "rectangle"
     }
   }, {
-    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
+    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
     "css" : {
       "shape" : "rectangle"
     }
@@ -539,12 +864,12 @@ var styles = [ {
       "shape" : "triangle"
     }
   }, {
-    "selector" : "node[BIOPAX_TYPE = 'PhysicalEntity']",
+    "selector" : "node[BIOPAX_TYPE = 'DnaRegion']",
     "css" : {
       "shape" : "ellipse"
     }
   }, {
-    "selector" : "node[BIOPAX_TYPE = 'DnaRegion']",
+    "selector" : "node[BIOPAX_TYPE = 'PhysicalEntity']",
     "css" : {
       "shape" : "ellipse"
     }
@@ -589,6 +914,252 @@ var styles = [ {
       "shape" : "ellipse"
     }
   }, {
+    "selector" : "node[BIOPAX_TYPE = 'BiochemicalReaction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'GeneticInteraction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Interaction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TransportWithBiochemicalReaction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'ComplexAssembly']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Conversion']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Complex']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Degradation']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Control']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TemplateReactionRegulation']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'MolecularInteraction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Modulation']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'TemplateReaction']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Catalysis']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[BIOPAX_TYPE = 'Transport']",
+    "css" : {
+      "height" : 13.4
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
     "selector" : "node:selected",
     "css" : {
       "background-color" : "rgb(255,255,0)"
@@ -596,20 +1167,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(64,64,64)",
-      "line-color" : "rgb(64,64,64)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 1.0,
-      "target-arrow-color" : "rgb(64,64,64)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 1.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(64,64,64)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(64,64,64)"
     }
   }, {
     "selector" : "edge[interaction = 'INHIBITION_NONCOMPETITIVE']",
@@ -701,297 +1272,198 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "Gradient1",
+  "title" : "size_rank_0",
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 30.0,
-      "background-color" : "rgb(0,0,0)",
-      "text-valign" : "bottom",
-      "text-halign" : "right",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 30.0,
       "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 8,
-      "color" : "rgb(204,204,204)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(102,102,102)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 1.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Big Labels",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 5.0,
-      "background-color" : "rgb(255,255,255)",
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 5.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 24,
       "color" : "rgb(51,51,51)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,0,102)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(183,183,183)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 1.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "default black",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
       "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 15.0,
-      "background-color" : "rgb(255,255,255)",
-      "text-valign" : "bottom",
-      "text-halign" : "right",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 15.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,153,0)",
-      "font-size" : 12,
-      "color" : "rgb(204,204,204)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(0,153,0)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Directed",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 45.0,
-      "background-color" : "rgb(255,255,255)",
-      "text-valign" : "center",
-      "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 45.0,
-      "border-width" : 5.0,
-      "border-color" : "rgb(145,145,145)",
-      "font-size" : 8,
-      "color" : "rgb(51,153,255)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,0,102)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(204,204,204)",
-      "line-color" : "rgb(204,204,204)",
-      "opacity" : 1.0,
-      "font-size" : 12,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(51,153,255)",
-      "target-arrow-shape" : "triangle",
-      "width" : 5.0,
-      "target-arrow-color" : "rgb(204,204,204)",
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid",
-      "content" : "data(interaction)"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Universe",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "Monospaced.plain",
-      "font-weight" : "normal",
-      "width" : 40.0,
-      "background-color" : "rgb(0,0,0)",
-      "text-valign" : "center",
-      "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 40.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 18,
-      "color" : "rgb(255,255,255)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(153,153,153)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "line-style" : "dashed"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Minimal",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 42.0,
-      "background-color" : "rgb(255,255,255)",
-      "text-valign" : "center",
-      "text-halign" : "center",
       "shape" : "rectangle",
-      "text-opacity" : 1.0,
-      "height" : 42.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
       "font-size" : 9,
-      "color" : "rgb(51,51,51)",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(204,204,255)",
+      "width" : 12.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 12.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -1000,20 +1472,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(76,76,76)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(76,76,76)"
     }
   }, {
     "selector" : "edge:selected",
@@ -1029,23 +1501,194 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 50.0,
-      "background-color" : "rgb(255,255,255)",
+      "border-width" : 20.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 50.0,
-      "border-width" : 20.0,
-      "border-color" : "rgb(51,153,255)",
-      "font-size" : 8,
       "color" : "rgb(19,58,96)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 8,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 50.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(51,153,255)",
+      "height" : 50.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -1054,74 +1697,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(51,153,255)",
-      "opacity" : 1.0,
-      "font-size" : 10,
+      "content" : "",
+      "line-style" : "solid",
       "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
+      "text-opacity" : 1.0,
       "width" : 3.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge:selected",
-    "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Sample2",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "width" : 50.0,
-      "background-color" : "rgb(58,127,182)",
-      "text-valign" : "center",
-      "text-halign" : "right",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 50.0,
-      "border-width" : 15.0,
-      "border-color" : "rgb(255,255,255)",
-      "font-size" : 20,
-      "color" : "rgb(102,102,102)",
-      "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node:selected",
-    "css" : {
-      "background-color" : "rgb(255,255,0)"
-    }
-  }, {
-    "selector" : "edge",
-    "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(255,255,255)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
       "target-arrow-shape" : "none",
-      "width" : 20.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "content" : "",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(51,153,255)"
     }
   }, {
     "selector" : "edge:selected",
@@ -1133,27 +1722,198 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "size_rank",
+  "title" : "Minimal",
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 12.0,
-      "background-color" : "rgb(204,204,255)",
+      "border-width" : 0.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "rectangle",
-      "text-opacity" : 1.0,
-      "height" : 12.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 9,
       "color" : "rgb(51,51,51)",
+      "border-opacity" : 1.0,
+      "shape" : "rectangle",
+      "font-size" : 9,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 42.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 42.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -1162,20 +1922,600 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(76,76,76)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 2.0,
-      "target-arrow-color" : "rgb(0,0,0)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(76,76,76)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "default",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
+      "shape" : "roundrectangle",
+      "font-size" : 120,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(137,208,245)",
+      "width" : 1250.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(204,204,204)",
+      "height" : 200.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[nature = 'bdd']",
+    "css" : {
+      "background-color" : "rgb(252,78,42)"
+    }
+  }, {
+    "selector" : "node[nature = 'besoin']",
+    "css" : {
+      "background-color" : "rgb(43,140,190)"
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mefsin']",
+    "css" : {
+      "background-color" : "rgb(254,196,79)"
+    }
+  }, {
+    "selector" : "node[nature = 'usage']",
+    "css" : {
+      "background-color" : "rgb(150,150,150)"
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_tiers']",
+    "css" : {
+      "background-color" : "rgb(201,148,199)"
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mte']",
+    "css" : {
+      "background-color" : "rgb(116,196,118)"
+    }
+  }, {
+    "selector" : "node[nature = 'polpub']",
+    "css" : {
+      "background-color" : "rgb(252,197,192)"
+    }
+  }, {
+    "selector" : "node[nature = 'bdd']",
+    "css" : {
+      "width" : 800.0
+    }
+  }, {
+    "selector" : "node[nature = 'besoin']",
+    "css" : {
+      "width" : 1500.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mefsin']",
+    "css" : {
+      "width" : 800.0
+    }
+  }, {
+    "selector" : "node[nature = 'usage']",
+    "css" : {
+      "width" : 600.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_tiers']",
+    "css" : {
+      "width" : 800.0
+    }
+  }, {
+    "selector" : "node[nature = 'polpub']",
+    "css" : {
+      "width" : 600.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mte']",
+    "css" : {
+      "width" : 800.0
+    }
+  }, {
+    "selector" : "node[nature = 'bdd']",
+    "css" : {
+      "height" : 300.0
+    }
+  }, {
+    "selector" : "node[nature = 'besoin']",
+    "css" : {
+      "height" : 500.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mefsin']",
+    "css" : {
+      "height" : 300.0
+    }
+  }, {
+    "selector" : "node[nature = 'usage']",
+    "css" : {
+      "height" : 200.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_tiers']",
+    "css" : {
+      "height" : 300.0
+    }
+  }, {
+    "selector" : "node[nature = 'acteur_mte']",
+    "css" : {
+      "height" : 300.0
+    }
+  }, {
+    "selector" : "node[nature = 'polpub']",
+    "css" : {
+      "height" : 200.0
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 15.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(132,132,132)"
+    }
+  }, {
+    "selector" : "edge[link = 'besoin_dgfip']",
+    "css" : {
+      "line-color" : "rgb(150,150,150)"
+    }
+  }, {
+    "selector" : "edge[link = 'usage_polpub']",
+    "css" : {
+      "line-color" : "rgb(252,197,192)"
+    }
+  }, {
+    "selector" : "edge[link = 'bdd_producteur']",
+    "css" : {
+      "line-color" : "rgb(254,153,41)"
+    }
+  }, {
+    "selector" : "edge[link = 'besoin_bdd']",
+    "css" : {
+      "line-color" : "rgb(239,59,44)"
+    }
+  }, {
+    "selector" : "edge[link = 'besoin_dgaln']",
+    "css" : {
+      "line-color" : "rgb(65,171,93)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Curved",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 7.0,
+      "text-valign" : "bottom",
+      "text-halign" : "right",
+      "color" : "rgb(102,102,102)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 14,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(254,196,79)",
+      "width" : 18.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(255,255,255)",
+      "height" : 18.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(255,255,255)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 3.0,
+      "target-arrow-shape" : "triangle",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(255,255,255)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(255,255,255)"
     }
   }, {
     "selector" : "edge:selected",
@@ -1191,21 +2531,21 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 0.49019607843137253,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 60.0,
-      "background-color" : "rgb(255,153,153)",
+      "border-width" : 2.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 40.0,
-      "border-width" : 2.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 12,
       "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 12,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,153,153)",
+      "width" : 60.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 0.49019607843137253,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 40.0,
       "content" : "data(name)"
     }
   }, {
@@ -1219,6 +2559,177 @@ var styles = [ {
       "shape" : "hexagon"
     }
   }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
     "selector" : "node:selected",
     "css" : {
       "background-color" : "rgb(255,255,0)"
@@ -1226,90 +2737,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(0,0,0)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 4.0,
-      "target-arrow-color" : "rgb(0,0,0)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 4.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
-    }
-  }, {
-    "selector" : "edge[interaction = 'interacts-with']",
-    "css" : {
-      "line-color" : "rgb(0,85,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'chemical-affects']",
-    "css" : {
-      "line-color" : "rgb(240,144,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-state-change-of']",
-    "css" : {
-      "line-color" : "rgb(0,0,192)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-transport-of']",
-    "css" : {
-      "line-color" : "rgb(112,0,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'consumption-controled-by']",
-    "css" : {
-      "line-color" : "rgb(255,51,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'reacts-with']",
-    "css" : {
-      "line-color" : "rgb(0,255,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'neighbor-of']",
-    "css" : {
-      "line-color" : "rgb(0,170,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-expression-of']",
-    "css" : {
-      "line-color" : "rgb(0,160,160)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-phosphorylation-of']",
-    "css" : {
-      "line-color" : "rgb(0,0,255)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-transport-of-chemical']",
-    "css" : {
-      "line-color" : "rgb(160,0,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'used-to-produce']",
-    "css" : {
-      "line-color" : "rgb(247,85,0)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'in-complex-with']",
-    "css" : {
-      "line-color" : "rgb(240,0,160)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'controls-production-of']",
-    "css" : {
-      "line-color" : "rgb(0,204,240)"
-    }
-  }, {
-    "selector" : "edge[interaction = 'catalysis-precedes']",
-    "css" : {
-      "line-color" : "rgb(112,0,160)"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(0,0,0)"
     }
   }, {
     "selector" : "edge[interaction = 'controls-expression-of']",
@@ -1460,68 +2901,74 @@ var styles = [ {
       "source-arrow-color" : "rgb(112,0,160)"
     }
   }, {
-    "selector" : "edge:selected",
+    "selector" : "edge[interaction = 'interacts-with']",
     "css" : {
-      "line-color" : "rgb(255,0,0)"
-    }
-  } ]
-}, {
-  "format_version" : "1.0",
-  "generated_by" : "cytoscape-3.9.1",
-  "target_cytoscapejs_version" : "~2.1",
-  "title" : "Sample1",
-  "style" : [ {
-    "selector" : "node",
-    "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "width" : 25.0,
-      "background-color" : "rgb(127,205,187)",
-      "text-valign" : "center",
-      "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 25.0,
-      "border-width" : 0.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 10,
-      "color" : "rgb(51,51,51)",
-      "content" : "data(name)"
+      "line-color" : "rgb(0,85,0)"
     }
   }, {
-    "selector" : "node:selected",
+    "selector" : "edge[interaction = 'chemical-affects']",
     "css" : {
-      "background-color" : "rgb(255,255,0)"
+      "line-color" : "rgb(240,144,0)"
     }
   }, {
-    "selector" : "edge",
+    "selector" : "edge[interaction = 'controls-state-change-of']",
     "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(153,153,153)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(51,51,51)",
-      "target-arrow-shape" : "none",
-      "width" : 1.0,
-      "target-arrow-color" : "rgb(0,0,0)",
-      "font-family" : "Dialog.plain",
-      "font-weight" : "normal",
-      "line-style" : "solid",
-      "content" : "data(interaction)"
+      "line-color" : "rgb(0,0,192)"
     }
   }, {
-    "selector" : "edge[interaction = 'pp']",
+    "selector" : "edge[interaction = 'controls-transport-of']",
     "css" : {
-      "line-style" : "solid"
+      "line-color" : "rgb(112,0,0)"
     }
   }, {
-    "selector" : "edge[interaction = 'pd']",
+    "selector" : "edge[interaction = 'consumption-controled-by']",
     "css" : {
-      "line-style" : "dashed"
+      "line-color" : "rgb(255,51,0)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'reacts-with']",
+    "css" : {
+      "line-color" : "rgb(0,255,0)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'neighbor-of']",
+    "css" : {
+      "line-color" : "rgb(0,170,0)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'controls-expression-of']",
+    "css" : {
+      "line-color" : "rgb(0,160,160)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'controls-phosphorylation-of']",
+    "css" : {
+      "line-color" : "rgb(0,0,255)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'controls-transport-of-chemical']",
+    "css" : {
+      "line-color" : "rgb(160,0,0)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'used-to-produce']",
+    "css" : {
+      "line-color" : "rgb(247,85,0)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'in-complex-with']",
+    "css" : {
+      "line-color" : "rgb(240,0,160)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'controls-production-of']",
+    "css" : {
+      "line-color" : "rgb(0,204,240)"
+    }
+  }, {
+    "selector" : "edge[interaction = 'catalysis-precedes']",
+    "css" : {
+      "line-color" : "rgb(112,0,160)"
     }
   }, {
     "selector" : "edge:selected",
@@ -1537,32 +2984,22 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 60.0,
-      "background-color" : "rgb(255,255,255)",
+      "border-width" : 2.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "shape" : "ellipse",
-      "text-opacity" : 1.0,
-      "height" : 40.0,
-      "border-width" : 2.0,
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 12,
       "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 12,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 60.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 40.0,
       "content" : "data(shared_name)"
-    }
-  }, {
-    "selector" : "node[has_nested_network]",
-    "css" : {
-      "background-color" : "rgb(255,255,255)"
-    }
-  }, {
-    "selector" : "node[has_nested_network]",
-    "css" : {
-      "border-color" : "rgb(0,102,204)"
     }
   }, {
     "selector" : "node[has_nested_network]",
@@ -1572,13 +3009,194 @@ var styles = [ {
   }, {
     "selector" : "node[has_nested_network]",
     "css" : {
-      "shape" : "rectangle"
+      "background-color" : "rgb(255,255,255)"
     }
   }, {
     "selector" : "node[has_nested_network]",
     "css" : {
       "color" : "rgb(0,102,204)"
     }
+  }, {
+    "selector" : "node[has_nested_network]",
+    "css" : {
+      "border-color" : "rgb(0,102,204)"
+    }
+  }, {
+    "selector" : "node[has_nested_network]",
+    "css" : {
+      "shape" : "rectangle"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -1587,20 +3205,20 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
       "source-arrow-color" : "rgb(0,0,0)",
-      "line-color" : "rgb(64,64,64)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "none",
-      "width" : 1.0,
-      "target-arrow-color" : "rgb(0,0,0)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 1.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(64,64,64)"
     }
   }, {
     "selector" : "edge:selected",
@@ -1612,27 +3230,198 @@ var styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "Curved",
+  "title" : "Gradient1",
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "font-family" : "SansSerif.plain",
-      "font-weight" : "normal",
-      "width" : 18.0,
-      "background-color" : "rgb(254,196,79)",
+      "border-width" : 0.0,
       "text-valign" : "bottom",
       "text-halign" : "right",
+      "color" : "rgb(204,204,204)",
+      "border-opacity" : 1.0,
       "shape" : "ellipse",
+      "font-size" : 8,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(0,0,0)",
+      "width" : 30.0,
       "text-opacity" : 1.0,
-      "height" : 18.0,
-      "border-width" : 7.0,
-      "border-color" : "rgb(255,255,255)",
-      "font-size" : 14,
-      "color" : "rgb(102,102,102)",
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 30.0,
       "content" : "data(name)"
     }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
   }, {
     "selector" : "node:selected",
     "css" : {
@@ -1641,20 +3430,1820 @@ var styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "text-opacity" : 1.0,
-      "source-arrow-color" : "rgb(255,255,255)",
-      "line-color" : "rgb(255,255,255)",
-      "opacity" : 1.0,
-      "font-size" : 10,
-      "source-arrow-shape" : "none",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "triangle",
-      "width" : 3.0,
-      "target-arrow-color" : "rgb(255,255,255)",
+      "source-arrow-color" : "rgb(0,0,0)",
       "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 1.0,
+      "target-arrow-shape" : "none",
       "font-family" : "SansSerif.plain",
       "font-weight" : "normal",
-      "line-style" : "solid"
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(102,102,102)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Universe",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(255,255,255)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 18,
+      "font-family" : "Monospaced.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(0,0,0)",
+      "width" : 40.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 40.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "dashed",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(153,153,153)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Marquee",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 10.0,
+      "text-valign" : "bottom",
+      "text-halign" : "center",
+      "color" : "rgb(102,102,102)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 12,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(0,204,255)",
+      "width" : 20.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(255,255,255)",
+      "height" : 20.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,0,102)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(255,255,255)",
+      "line-style" : "dashed",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "triangle",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 8,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(255,255,255)",
+      "color" : "rgb(102,102,102)",
+      "line-color" : "rgb(255,255,255)",
+      "content" : "data(interaction)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Sample3",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 8.0,
+      "text-valign" : "bottom",
+      "text-halign" : "right",
+      "color" : "rgb(206,206,206)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 14,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(61,154,255)",
+      "width" : 20.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(255,255,255)",
+      "height" : 20.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(255,255,255)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Big Labels",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(51,51,51)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 24,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 5.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 5.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,0,102)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 1.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(183,183,183)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "size_rank_0_0",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(51,51,51)",
+      "border-opacity" : 1.0,
+      "shape" : "rectangle",
+      "font-size" : 9,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(204,204,255)",
+      "width" : 12.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "height" : 12.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(76,76,76)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Sample2",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 15.0,
+      "text-valign" : "center",
+      "text-halign" : "right",
+      "color" : "rgb(102,102,102)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 20,
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(58,127,182)",
+      "width" : 50.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(255,255,255)",
+      "height" : 50.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 20.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(255,255,255)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "default black",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 0.0,
+      "text-valign" : "bottom",
+      "text-halign" : "right",
+      "color" : "rgb(204,204,204)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 12,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 15.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(0,153,0)",
+      "height" : 15.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(0,0,0)",
+      "content" : "",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 2.0,
+      "target-arrow-shape" : "none",
+      "font-family" : "Dialog.plain",
+      "font-weight" : "normal",
+      "font-size" : 10,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "color" : "rgb(0,0,0)",
+      "line-color" : "rgb(0,153,0)"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+}, {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "Directed",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "border-width" : 5.0,
+      "text-valign" : "center",
+      "text-halign" : "center",
+      "color" : "rgb(51,153,255)",
+      "border-opacity" : 1.0,
+      "shape" : "ellipse",
+      "font-size" : 8,
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "background-color" : "rgb(255,255,255)",
+      "width" : 45.0,
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "border-color" : "rgb(145,145,145)",
+      "height" : 45.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '192' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '256' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '352' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '194' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '258' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '290' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '322' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '354' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '386' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '324' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '230' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '262' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '264' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '296' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '328' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '202' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '234' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '266' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '298' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '330' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '268' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '206' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '270' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '302' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '334' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '208' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '178' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '274' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '306' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '338' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '180' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '212' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '244' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '276' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '308' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '340' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '214' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '246' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '278' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '310' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '374' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '248' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '280' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '312' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '344' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '376' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '282' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '314' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '346' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '378' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '188' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '220' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '284' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '348' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '318' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '350' ]",
+    "css" : { }
+  }, {
+    "selector" : "node[ id = '382' ]",
+    "css" : { }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,0,102)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "source-arrow-color" : "rgb(204,204,204)",
+      "line-style" : "solid",
+      "source-arrow-shape" : "none",
+      "text-opacity" : 1.0,
+      "width" : 5.0,
+      "target-arrow-shape" : "triangle",
+      "font-family" : "SansSerif.plain",
+      "font-weight" : "normal",
+      "font-size" : 12,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(204,204,204)",
+      "color" : "rgb(51,153,255)",
+      "line-color" : "rgb(204,204,204)",
+      "content" : "data(interaction)"
     }
   }, {
     "selector" : "edge:selected",
